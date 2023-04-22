@@ -1,4 +1,4 @@
 # Reliable-website
 first website
-![ReliableWeb!](show.jpg)
-![ReliablePhone!](show2.jpg)
+![ReliableWeb!](show.png)
+![ReliablePhone!](show2.png
